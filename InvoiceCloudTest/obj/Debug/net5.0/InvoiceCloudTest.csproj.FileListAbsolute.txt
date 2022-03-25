@@ -1,0 +1,64 @@
+/Users/johnduffy/InvoiceCloudTest/bin/Debug/net5.0/InvoiceCloudTest.deps.json
+/Users/johnduffy/InvoiceCloudTest/bin/Debug/net5.0/InvoiceCloudTest.runtimeconfig.json
+/Users/johnduffy/InvoiceCloudTest/bin/Debug/net5.0/InvoiceCloudTest.runtimeconfig.dev.json
+/Users/johnduffy/InvoiceCloudTest/bin/Debug/net5.0/InvoiceCloudTest.dll
+/Users/johnduffy/InvoiceCloudTest/bin/Debug/net5.0/ref/InvoiceCloudTest.dll
+/Users/johnduffy/InvoiceCloudTest/bin/Debug/net5.0/InvoiceCloudTest.pdb
+/Users/johnduffy/InvoiceCloudTest/bin/Debug/net5.0/AngleSharp.dll
+/Users/johnduffy/InvoiceCloudTest/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/johnduffy/InvoiceCloudTest/bin/Debug/net5.0/WebDriver.dll
+/Users/johnduffy/InvoiceCloudTest/bin/Debug/net5.0/ICSharpCode.SharpZipLib.dll
+/Users/johnduffy/InvoiceCloudTest/bin/Debug/net5.0/WebDriverManager.dll
+/Users/johnduffy/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.csproj.AssemblyReference.cache
+/Users/johnduffy/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnduffy/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.AssemblyInfoInputs.cache
+/Users/johnduffy/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.AssemblyInfo.cs
+/Users/johnduffy/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.csproj.CoreCompileInputs.cache
+/Users/johnduffy/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.csproj.CopyComplete
+/Users/johnduffy/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.dll
+/Users/johnduffy/InvoiceCloudTest/obj/Debug/net5.0/ref/InvoiceCloudTest.dll
+/Users/johnduffy/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.pdb
+/Users/johnduffy/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.genruntimeconfig.cache
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/bin/Debug/net5.0/InvoiceCloudTest.deps.json
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/bin/Debug/net5.0/InvoiceCloudTest.runtimeconfig.json
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/bin/Debug/net5.0/InvoiceCloudTest.runtimeconfig.dev.json
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/bin/Debug/net5.0/InvoiceCloudTest.dll
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/bin/Debug/net5.0/ref/InvoiceCloudTest.dll
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/bin/Debug/net5.0/InvoiceCloudTest.pdb
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/bin/Debug/net5.0/AngleSharp.dll
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/bin/Debug/net5.0/WebDriver.dll
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/bin/Debug/net5.0/ICSharpCode.SharpZipLib.dll
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/bin/Debug/net5.0/WebDriverManager.dll
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.csproj.AssemblyReference.cache
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.AssemblyInfoInputs.cache
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.AssemblyInfo.cs
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.csproj.CoreCompileInputs.cache
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.csproj.CopyComplete
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.dll
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/obj/Debug/net5.0/ref/InvoiceCloudTest.dll
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.pdb
+/Users/johnduffy/InvoiceCloud/InvoiceCloudTest/obj/Debug/net5.0/InvoiceCloudTest.genruntimeconfig.cache
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\bin\Debug\net5.0\InvoiceCloudTest.exe
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\bin\Debug\net5.0\InvoiceCloudTest.deps.json
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\bin\Debug\net5.0\InvoiceCloudTest.runtimeconfig.json
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\bin\Debug\net5.0\InvoiceCloudTest.runtimeconfig.dev.json
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\bin\Debug\net5.0\InvoiceCloudTest.dll
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\bin\Debug\net5.0\ref\InvoiceCloudTest.dll
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\bin\Debug\net5.0\InvoiceCloudTest.pdb
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\bin\Debug\net5.0\AngleSharp.dll
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\bin\Debug\net5.0\WebDriver.dll
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\bin\Debug\net5.0\WebDriverManager.dll
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\obj\Debug\net5.0\InvoiceCloudTest.csprojAssemblyReference.cache
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\obj\Debug\net5.0\InvoiceCloudTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\obj\Debug\net5.0\InvoiceCloudTest.AssemblyInfoInputs.cache
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\obj\Debug\net5.0\InvoiceCloudTest.AssemblyInfo.cs
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\obj\Debug\net5.0\InvoiceCloudTest.csproj.CoreCompileInputs.cache
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\obj\Debug\net5.0\InvoiceCloudTest.csproj.CopyComplete
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\obj\Debug\net5.0\InvoiceCloudTest.dll
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\obj\Debug\net5.0\ref\InvoiceCloudTest.dll
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\obj\Debug\net5.0\InvoiceCloudTest.pdb
+C:\Users\jduff\Desktop\JOB HUNT\Invoice Cloud\InvoiceCloudTest\obj\Debug\net5.0\InvoiceCloudTest.genruntimeconfig.cache
