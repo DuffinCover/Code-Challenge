@@ -10,4 +10,4 @@ jobs:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2.1.0
-      - run: dotnet test /SeleniumDemoTest/SeleniumDemoTest.csproj
+      - run: dotnet test SeleniumDemoTest.csproj
